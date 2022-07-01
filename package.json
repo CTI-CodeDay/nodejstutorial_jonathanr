@@ -1,0 +1,26 @@
+{
+  "name": "nodejstutorial_jonathanr",
+  "version": "1.0.0",
+  "description": "node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanramirez4479/nodejstutorial_jonathanr.git"
+  },
+  "author": "Jonathan Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanramirez4479/nodejstutorial_jonathanr/issues"
+  },
+  "homepage": "https://github.com/jonathanramirez4479/nodejstutorial_jonathanr#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
